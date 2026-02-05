@@ -1,0 +1,17 @@
+Solenoide 1 in modalità REP da t = 0.000000 a t = 0.038854
+Solenoide 2 in modalità REP da t = 0.000000 a t = 0.028033
+Solenoide 2 in modalità ON da t = 0.029183 a t = 0.055036
+Solenoide 2 in modalità REP da t = 0.055626 a t = 0.070177
+Solenoide 3 in modalità ON da t = 0.000000 a t = 0.045885
+Solenoide 3 in modalità REP da t = 0.046595 a t = 0.064846
+Solenoide 3 in modalità ON da t = 0.065347 a t = 0.070637
+Solenoide 4 in modalità ON da t = 0.000000 a t = 0.019842
+Solenoide 4 in modalità REP da t = 0.021432 a t = 0.047995
+Solenoide 4 in modalità ON da t = 0.054435 a t = 0.070637
+Solenoide 5 in modalità ON da t = 0.035304 a t = 0.061756
+Solenoide 5 in modalità REP da t = 0.062276 a t = 0.070637
+Solenoide 6 in modalità ON da t = 0.000000 a t = 0.036224
+Solenoide 6 in modalità REP da t = 0.037114 a t = 0.056796
+Solenoide 6 in modalità ON da t = 0.068277 a t = 0.070637
+Solenoide 7 in modalità ON da t = 0.046595 a t = 0.068757
+Solenoide 7 in modalità REP da t = 0.069227 a t = 0.070637
